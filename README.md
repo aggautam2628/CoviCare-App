@@ -1,0 +1,2 @@
+# CoviCare-App
+An app built with Flutter to help users to get information about Covid related resources like oxygen cylinders, plasma donations, hospital beds, medicines, and fundraising. This app fetches tweets from Twitter based on the location and hashtag related to covid resources through Twitter's API and displays them to the user. The backend is handled using Firebase for authentication and storing real-time data. 
